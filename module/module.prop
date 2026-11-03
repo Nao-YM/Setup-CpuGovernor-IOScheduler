@@ -1,6 +1,6 @@
 id=set_cpug_ios
 name=Setup CPUGovernor IOScheduler
-version=v1.0.0
+version=v1.0.1
 versionCode=1
 author=Nao-YM
 description=A module Set CPU Governor and IO Scheduler
