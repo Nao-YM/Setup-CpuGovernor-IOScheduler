@@ -1,2 +1,2 @@
 # Setup-CpuGovernor-IOScheduler
-CPUGovernorとIOSchedulerを設定する
+CPUGovernorとIOSchedulerを設定するだけ。

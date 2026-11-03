@@ -1,0 +1,7 @@
+id=set_cpug_ios
+name=Setup CPUGovernor IOScheduler
+version=v1.0.0
+versionCode=1
+author=Nao-YM
+description=A module Set CPU Governor and IO Scheduler
+updateJson=https://raw.githubusercontent.com/Nao-YM/Setup-CpuGovernor-IOScheduler/refs/heads/main/update.json
