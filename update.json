@@ -1,6 +1,6 @@
 {
-	"version": "v1.0.0",
-	"versionCode": 2,
+	"version": "v1.0.1",
+	"versionCode": 1,
 	"zipUrl": "https://github.com/Nao-YM/Setup-CpuGovernor-IOScheduler/releases/latest/download/Setup-CpuGovernor-IOScheduler-v1.0.0.zip",
 	"changelog": "https://raw.githubusercontent.com/Nao-YM/Setup-CpuGovernor-IOScheduler/refs/heads/main/CHANGELOG.md"
 }
